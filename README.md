@@ -14,11 +14,13 @@ The analysis was performed by utilizing the dataset we had previously set up, an
 
 For the first analysis, we created a pivot table breaking out the outcomes (successful, failed, or canceled) by the month they were launched. Using this pivot, we could easily add a line graph that would let us visually analyze if a specific month brought about better outcomes.  See image below.
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/86527135/124861596-7e6c5d80-df79-11eb-9339-35177a70a7f0.png)
+
 ### Outcomes Based on Goals
 
 The second analysis utilized countifs to extract specific data, breaking out play kickstarters by the goal funded amount and their corresponding outcome. This is one of my favorite functions, letting you add multiple variables to "filter" the data set. We then summarized this data by the percentage of each outcome, graphing it according to the goal funded amount.
 
-The analysis was performed by utilizing the dataset we had previously set up, and further adjusting the data and adding graphical elements. 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/86527135/124861564-744a5f00-df79-11eb-8262-542e09f9ad1c.png)
 
 ### Challenges and Difficulties Encountered
 
